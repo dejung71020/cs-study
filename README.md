@@ -11,6 +11,7 @@
 - [TCP-UDP](./network/tcp-udp.md)
 ### Database
 - [트랜잭션과 ACID](./database/transaction-acid.md)
+- [정규화](./database/normalization.md)
 
 ### Backend
 - [JWT와 OAuth 2.0](./backend/jwt-oauth.md)
