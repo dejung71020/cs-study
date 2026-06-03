@@ -18,6 +18,7 @@
 | 2026-06-02 | OSI 7계층 | Network | [링크](./network/osi-7layer.md) |
 | 2026-06-02 | 인덱스 | Database | [링크](./database/index.md) |
 | 2026-06-02 | 동기 vs 비동기 | Backend | [링크](./backend/sync-async.md) |
+| 2026-06-03 | REST API & RESTful | Backend | [링크](./backend/rest-api.md) |
 
 ---
 
