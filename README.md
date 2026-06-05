@@ -13,6 +13,7 @@
 
 | 날짜 | 주제 | 카테고리 | 링크 |
 |---|---|---|---|
+| 2026-06-05 | 임베딩 | Backend | [링크](./backend/embedding.md) |
 | 2026-06-05 | ERP · SAP · SI 용어 정리 | Backend | [링크](./backend/erp-si.md) |
 | 2026-06-04 | Flask vs FastAPI vs Node.js | Backend | [링크](./backend/flask-fastapi-nodejs.md) |
 | 2026-06-03 | REST API & RESTful | Backend | [링크](./backend/rest-api.md) |
