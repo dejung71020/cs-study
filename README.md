@@ -13,6 +13,7 @@
 
 | 날짜 | 주제 | 카테고리 | 링크 |
 |---|---|---|---|
+| 2026-06-09 | MCP  | Backend | [링크](./backend/MCP.md) |
 | 2026-06-08 | 직접 연동 vs MCP 연동 | Backend | [링크](./backend/direct-vs-mcp.md) |
 | 2026-06-05 | RAG Architecture | Backend | [링크](./backend/rag-architecture.md) |
 | 2026-06-05 | 임베딩 | Backend | [링크](./backend/embedding.md) |
