@@ -13,6 +13,7 @@
 
 | 날짜 | 주제 | 카테고리 | 링크 |
 |---|---|---|---|
+| 2026-06-11 | Docker와 컨테이너 | Infra | [링크](./infra/docker.md) |
 | 2026-06-10 | FastAPI 아키텍처 패턴 | Backend | [링크](./backend/fastapi-architecture.md) |
 | 2026-06-09 | MCP  | Backend | [링크](./backend/MCP.md) |
 | 2026-06-08 | 직접 연동 vs MCP 연동 | Backend | [링크](./backend/direct-vs-mcp.md) |
@@ -40,5 +41,6 @@
 cs-study/
 ├── network/
 ├── database/
-└── backend/
+├── backend/
+└── infra/
 ```
